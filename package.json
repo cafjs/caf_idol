@@ -1,0 +1,12 @@
+{
+  "name": "caf_idol",
+  "description": "Wrapper to IDOL on Demand APIs",
+  "version": "0.0.1",
+  "author": "Antonio Lain <antlai@cafjs.com>",
+  "dependencies": {
+      "caf_core" : ">= 0.0.1",
+      "request" : ">= 2.9.202"
+  },
+  "main": "index",
+  "engines": { "node": ">= 0.8.1 " }
+}
